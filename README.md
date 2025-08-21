@@ -1,3 +1,3 @@
 # aula-git-pi
-Alteração feita no repo remoto
-Alteração feita no repo local
+Alteração feita no reposotório remoto
+Alteração feita no repositório local
